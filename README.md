@@ -6,6 +6,9 @@
 pipenv shell     (активировать среду)
 deactivate    (выход и окружения)
 
+
+
+
 python3 -m venv myvenv
 
 source myvenv/bin/activate
